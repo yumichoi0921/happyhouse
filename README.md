@@ -18,11 +18,11 @@
 ## Info
 삼성 청년 소프트웨어 아카데미(SSAFY) 교육을 들으며 개발한 프로젝트로 본인 외 팀원 한명과 작업하였습니다.
 ## Getting Started
-- 1. happyhouse_server를 import하여 Spring Boot에서 실행합니다.
-- 2. happyhouse_vue를 import합니다.
-  - 2-1. 터미널에서 다음을 입력합니다. 
-  - ```
-  - npm install
-- 3. 터미널에서 다음을 입력합니다.
-  - ```
-  - npm run serve  
+- happyhouse_server를 import하여 Spring Boot에서 실행합니다.
+- happyhouse_vue를 import합니다.
+  - 터미널에서 다음을 입력합니다. 
+  ```
+  npm install
+- 터미널에서 다음을 입력합니다.
+  ```
+  npm run serve  
