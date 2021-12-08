@@ -23,6 +23,4 @@
   - 터미널에서 다음을 입력합니다. 
   ```
   npm install
-- 터미널에서 다음을 입력합니다.
-  ```
-  npm run serve  
+  npm run serve
